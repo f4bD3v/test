@@ -1,6 +1,6 @@
 {
   "name": "@f4bd3v/test",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Server boilerplate using @nexys/core",
   "main": "dist/index.js",
   "scripts": {
