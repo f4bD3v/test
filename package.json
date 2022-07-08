@@ -1,5 +1,5 @@
 {
-  "name": "@nexys-system/server-boilerplate",
+  "name": "@f4bd3v/test",
   "version": "0.0.7",
   "description": "Server boilerplate using @nexys/core",
   "main": "dist/index.js",
